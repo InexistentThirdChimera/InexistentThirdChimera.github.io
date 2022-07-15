@@ -17,8 +17,8 @@ title: Hitchens
 email: hello@patdryburgh.com
 description: >- # this means to ignore newlines until "baseurl:"
   An inarguably well-designed Jekyll theme.
-baseurl: "/InexistentThirdChimera" # the subpath of your site, e.g. /blog
-url: "https://InexistentThirdChimera.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/inexistentthirdchimera" # the subpath of your site, e.g. /blog
+url: "https://inexistentthirdchimera.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: Isperia
 github_username:  Isperia 
