@@ -46,7 +46,43 @@ Eight winds are originated from the bottoms of the eight hidden Bulwarks, which 
 It’s said that the wind currents will travel the same path forever and every creature will hear the carried laments. The Elves are also aware that at the bottom of each bulwark a gate leads to an uncanny place. One of this gates was forever closed: the gate to Surrealm.
 Because the eight bulwarks are different in structure, dimensions and origin it’s hard to discover them, consequently some of them remain undiscovered. Moreover, tracking the winds seems an impossible challenge.
 
-“Every spell is an echo of the past, and the Surrealm is the place where all the echoes are stored. And when an echo leave the Surrealm it morphs into a wind.” - Almanac of the Whistling Art
+<html lang="en">
+  
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+    <meta name="viewport" content=
+        "width=device-width, initial-scale=1.0" />
+  
+    <!--Style CSS-->
+    <style>
+        .gfg {
+            font-style: italic;
+            font-size: 18px;
+            margin: 10px;
+            padding: 2px;
+            color: black;
+        }
+    </style>
+</head>
+  
+<body>
+    <h3>
+        From The Almanac of the Whistling Art:
+    </h3>
+  
+    <p class="gfg">
+       “Every spell is an echo of the past, and the Surrealm is the place where all the echoes are stored. And when an echo leave the Surrealm it morphs into a wind.”
+
+    </p>
+  
+    <p class="geeks">
+    
+    </p>
+</body>
+  
+</html>
 
 
 With the desire of imitating the sound of the eight winds and through bizarre metallurgical and sonic arts, the Elves have developed wind instruments of chrome metal, and playing certain melodies upon them brings down the wind. Wiser Elves merely whistle with their fingers, or upon an ancient horse-bone flute. A reproduction of the sound of a specific wind will summon its powers, but weather and seasons must be right or the wind will disobediently dissipate and all be becalmed. 
