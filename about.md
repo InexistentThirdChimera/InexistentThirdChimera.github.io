@@ -6,9 +6,9 @@ title: About
 Call me Isperia, please.
 
 <figure>
-  <img alt="Christopher Hitchens" src="https://i.ytimg.com/vi/M4iDPJ9orKA/maxresdefault.jpg" />
+  <img alt="Christopher Hitchens" src="https://ibb.co/Vx9vVP2" />
   <figcaption>
-    Shot on Iphone 11 .
+    Shot on Nikon F60 .
   </figcaption>
 </figure>
 
