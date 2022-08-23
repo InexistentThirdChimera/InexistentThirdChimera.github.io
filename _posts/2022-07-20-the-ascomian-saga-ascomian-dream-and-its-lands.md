@@ -5,8 +5,28 @@ category: Ascom RPG
 layout: post
 ---
 
-
-[b]"The fossil world of Ascom, where everything was forgotten and burrowed under the bone-looking roots of the fossil ruins. But yet something or someone is proliferating a new belief, a new reality, yet to be understood or accepted."[/b]
+<html>
+    <head>
+        <style type="text/css">
+            h2 {
+                font-weight: 700;
+                color: black;
+            }
+            .text {
+                font-weight: bold;
+            }
+        </style>
+    </head>
+    <body>
+        <h2>
+          The fossil world of Ascom, where everything was forgotten and burrowed under the bone-looking roots of the fossil ruins. But yet something or someone is proliferating a new belief, a new reality, yet to be understood or accepted."
+        </h2>
+        <p class="text">
+          A Computer Science portal for geeks
+        </p>
+ 
+    </body>
+</html>
 
 There’s a place far beyond dreams, known under the name of Ascom. Its history is marked by grief, and its lands are owned by no one. Endless and gargantuan are the woods whose roots expand through the lapsed ascomian territories. Mysterious and unremembered ruins are well hidden under a fleshy mud, while the oldest secrets rise to the surface, waiting to be discovered. Most of the creatures struggle to survive, while others impassively stand by and watch, but all lack courage to explore a rapidly forgotten world. In fact: no one really knows what the world looks like beyond their shelters, but a bunch of curious stories often spoken by the oldest, or the madmen, intrigue the most unconscious, spurring them to meet their end in exploration -an intriguing promise of discovery, which should ultimately lead to freedom by death or knowledge.
 All known creatures, including humans, live under the green foliage of the immortal forest, they are parasites to this world, ghosts to each other. Their days are illuminated by the pale rays of the midday suns; while their lives are continuously obscured by the mere surviving trial in a mutable wilderness. 
