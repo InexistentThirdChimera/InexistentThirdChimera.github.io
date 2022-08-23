@@ -27,11 +27,11 @@ layout: post
   
 <body>
     <h3>
-        from the "Parchment of the Horseless Lancer"
+        From the Parchment of the Horseless Lancer:
     </h3>
   
     <p class="gfg">
-       If elves are anything, they are bystanders of the wild purity of existence. They were there, in the center of all things, watching and assisting as a demagogic agency the birth and the fall of the human empire. Their abandon seems an annihilation, a sundering, a fall from a greater splendor. Their walking with humans on this earthly plane is bitter to them, and they are sufficiently alienated from the human world that perhaps they care not what they do to them. Indeed, they prey upon humans or adorn them with flowers and accommodate fiendish pleasures upon them in turn without distinction. They are naturally amoral. The fall of the elves is like the fall of an ancient order, from a purely poetic dimension of existence to a dry prosaic world. Among humans they suffer the isolation of the voiceless and the persecuted.”
+       If elves are anything, they are bystanders of the wild purity of existence. They were there, in the center of all things, watching and assisting as a demagogic agency the birth and the fall of the human empire. Their abandon seems an annihilation, a sundering, a fall from a greater splendor. Their walking with humans on this earthly plane is bitter to them, and they are sufficiently alienated from the human world that perhaps they care not what they do to them. Indeed, they prey upon humans or adorn them with flowers and accommodate fiendish pleasures upon them in turn without distinction. They are naturally amoral. The fall of the elves is like the fall of an ancient order, from a purely poetic dimension of existence to a dry prosaic world. Among humans they suffer the isolation of the voiceless and the persecuted.” - Princess Duru Rana
     </p>
   
     <p class="geeks">
