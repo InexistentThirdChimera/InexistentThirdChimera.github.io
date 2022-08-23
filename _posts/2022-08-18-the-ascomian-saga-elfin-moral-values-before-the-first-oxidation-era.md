@@ -48,7 +48,39 @@ Elves understood this concepts, given that they’ve been contemplating them for
 
 Life was important to them, yet meaningless: an inconsolable desire for knowledge, twisted speculations and extreme experiments, designed to unveil the secrets of life, erased the borders of ethic by signing a warrant of the death of self-consciousness. Everything was allowed. 
 
-“In the end we all have to choose for ourselves and no one can do it for anyone else.” - words spoken by and Elf
+<html lang="en">
+  
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+    <meta name="viewport" content=
+        "width=device-width, initial-scale=1.0" />
+  
+    <!--Style CSS-->
+    <style>
+        .gfg {
+            font-style: italic;
+            font-size: 18px;
+            margin: 10px;
+            padding: 2px;
+            color: black;
+        }
+    </style>
+</head>
+  
+<body>
+    <p class="gfg">
+       “In the end we all have to choose for ourselves and no one can do it for anyone else.” - words spoken by and Elf
+    </p>
+  
+    <p class="geeks">
+    
+    </p>
+</body>
+  
+</html>
+
 
 Amoralism does not imply irrationality. Elves are in fact very rational beasts and will act or react only when the reasons to do so are grounded it Elf’s own interests.
 A moral human that acts through moral teachings cannot be indifferent to matters such as suffering and injustice, he will not, however, take the fact that ought to have certain ends as in itself reason to adopt them. An amoral Elf however, may deny that he has any reason to trouble his head over this or any other moral demand.  
