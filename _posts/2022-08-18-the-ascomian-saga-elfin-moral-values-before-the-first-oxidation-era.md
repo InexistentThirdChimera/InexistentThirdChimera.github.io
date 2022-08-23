@@ -1,5 +1,5 @@
 ---
-title: The Ascomian Saga, Nature of Elfin Moral Values before The 1st Oxidation Era
+title: The Ascomian Saga - Nature of Elfin Moral Values before The 1st Oxidation Era
 author: Alessandro Mattia Arrighetti
 category: Ascom RPG
 layout: post
