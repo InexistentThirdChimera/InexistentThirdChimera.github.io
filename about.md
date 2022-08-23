@@ -6,7 +6,7 @@ title: About
 Call me Isperia, please.
 
 <figure>
-  <img alt="Christopher Hitchens" src="https://ibb.co/Vx9vVP2" />
+  <img alt="Christopher Hitchens" src="https://i.ibb.co/sCRFjMy/nikon.jpg" />
   <figcaption>
     Shot on Nikon F60 .
   </figcaption>
