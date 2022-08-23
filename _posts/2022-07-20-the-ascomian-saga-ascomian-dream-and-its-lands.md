@@ -9,7 +9,7 @@ layout: post
     <head>
         <style type="text/css">
             h2 {
-                font-weight: 700;
+                font-weight: 500;
                 color: black;
             }
             .text {
