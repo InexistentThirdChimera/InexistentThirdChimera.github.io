@@ -60,7 +60,7 @@ layout: post
   <tr>
     <td>4</td>
     <td>The Saint</td>
-    <td>A bony man from another era. He doesn't speak much, he will only claim to love the forest of Ascom. If encountered near a human church he will let the players know that they should not ring the bell, otherwise a piece of the church will fall on his heads. </td>
+    <td>A bony man from a forgotten epoque. He doesn't speak much, he will only claim to love the forest of Ascom. If encountered near a human church he will let the players know that they should not ring the bell, otherwise a piece of the church will fall on his heads. </td>
   </tr>
   <tr>
     <td>5</td>
@@ -75,12 +75,12 @@ layout: post
   <tr>
     <td>7</td>
     <td>Barricaded Tower Automaton</td>
-    <td>A tower made by man-sized puppets wielding shields, lances and crosswbows.</td>
+    <td>A tower made by man-sized puppets wielding shields, lances and crosswbows. They engage the party with a testudo formation, occasionally the Automaton will stab the nearest creatures with lances, or shoot the distant ones with crossbows, uncovering the weak mechanism that automates the movements. The Barricaded Tower Automaton can only move in streight long lines.</td>
   </tr>
   <tr>
     <td>8</td>
     <td>Queen Automaton</td>
-    <td>bla bla</td>
+    <td> bla</td>
   </tr>
   <tr>
     <td>9</td>
@@ -100,7 +100,7 @@ layout: post
   <tr>
     <td>12</td>
     <td>Horsecape Knights</td>
-    <td>bla bla</td>
+    <td>A dreadful horseless knight wielding a gunlance and a curved sword. He wears a cape made out of bones that belonged to his horse. The knight is slowly dragging the bones, while holding a menacing stance. A weakened specter of what he used to be.</td>
   </tr>
   <tr>
     <td>13</td>
@@ -125,7 +125,7 @@ layout: post
   <tr>
     <td>17</td>
     <td>Maklen Berzerks</td>
-    <td>bla bla</td>
+    <td>Roll an additional 2d4 to determine the quantity. The Maklen Berzerks are cursed hunters who have assumed a leonine form: with an over-exaggerated muscular body and a charmy lion head they will challenge the party in various competitions, both physical and mental. If the Maklen lions win, they will want a valuable item in the possession of the party as a prize. If the party do not own such an item, the Berzerks will demand that one of the group join them as a slave. The party can pretend and claim the same prize. </td>
   </tr>
   <tr>
     <td>18</td>
@@ -135,7 +135,7 @@ layout: post
   <tr>
     <td>19</td>
     <td>One-Horned Equine Knight</td>
-    <td>bla bla</td>
+    <td>A legendary figure, a valiant enemy who goes beyond the competences of the party. Already a myth during the Second Oxidation Era, when humans where belligerent and many. A horse-riding ravanger! Fly or take cover! </td>
   </tr>
   <tr>
     <td>20</td>
