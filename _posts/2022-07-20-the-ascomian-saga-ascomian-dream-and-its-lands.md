@@ -19,10 +19,9 @@ layout: post
     </head>
     <body>
         <h2>
-          The fossil world of Ascom, where everything was forgotten and burrowed under the bone-looking roots of the fossil ruins. But yet something or someone is proliferating a new belief, a new reality, yet to be understood or accepted."
+          "The fossil world of Ascom, where everything was forgotten and burrowed under the bone-looking roots of the fossil ruins. But yet something or someone is proliferating a new belief, a new reality, yet to be understood or accepted."
         </h2>
         <p class="text">
-          A Computer Science portal for geeks
         </p>
  
     </body>
