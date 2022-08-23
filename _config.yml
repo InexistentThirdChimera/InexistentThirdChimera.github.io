@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A blog about Fantasy Worlds, Old School RPGs, and their Reimagination.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://inexistentthirdchimera.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-icon: /assets/images/icon-513.png
+icon: /assets/images/icon-512.png
 twitter_username: Isperia
 github_username:  Isperia 
 
