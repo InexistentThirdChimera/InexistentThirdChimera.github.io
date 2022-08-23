@@ -34,7 +34,7 @@ layout: post
 </head>
 <body>
 
-<h1>A Fancy Table</h1>
+<h1>A Encounter Table [add Encounter Systems]</h1>
 
 <table id="customers">
   <tr>
