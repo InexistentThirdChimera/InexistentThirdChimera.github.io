@@ -1,5 +1,5 @@
 ---
-title: The Ascomian Saga, A Jocular Introduction (1)
+title: The Ascomian Saga, A Jocular Introduction 
 author: Alessandro Mattia Arrighetti
 category: ASCOM
 layout: post
