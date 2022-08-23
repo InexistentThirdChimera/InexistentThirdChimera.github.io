@@ -4,7 +4,6 @@ author: Alessandro Mattia Arrighetti
 category: Ascom Elves
 layout: post
 ---
-
 <html lang="en">
   
 <head>
@@ -18,7 +17,7 @@ layout: post
     <style>
         .gfg {
             font-style: italic;
-            font-size: 24px;
+            font-size: 16px;
             margin: 10px;
             padding: 2px;
             color: black;
@@ -36,11 +35,13 @@ layout: post
     </p>
   
     <p class="geeks">
-                                                           -Princess Duru Rana
+    -Princess Duru Rana
     </p>
 </body>
   
 </html>
+
+
 
 Since the beginning of the Dream there where only beasts roaming around the lands. Among them the Elves stood out: highly intelligent and physically portentous. Elves could not die a natural or accidental death. Although some elves wielded terrible secrets from unknown origins, able to steal immortality, they lived a peaceful existence until the birth of the Pale Sun and its Oxidation: a mysterious phenomenon formally known by the Elves as the “First Oxidative Requiem” or “Elfin Oxidation”, called also “First Event” or “First Oxidation” by the human inhabitants of Ascom.
 Immortality implied a lifestyle dedicated to knowledge. A considerable number of Elfin individuals achieved a level of knowledge envied by the most illustrious human sorcerers, known as necornauts. 
