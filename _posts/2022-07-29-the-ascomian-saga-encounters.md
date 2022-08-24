@@ -45,7 +45,7 @@ layout: post
   </tr>
   <tr>
     <td>1</td>
-    <td>No</t>
+    <td>No</td>
     <td>Fisher of Man (Kaarids)</td>
     <td>Roll an additional 2d4 to determine the quantity. The Fisher of Man are Kaarid's tribe outcasts. They will hunt humans at any cost, wielding nets and sharp improvised meat-grinding clubs.  </td>
   </tr>
@@ -75,7 +75,7 @@ layout: post
   </tr>
   <tr>
     <td>6</td>
-    <th>Yes</th>
+    <th>Yes</td>
     <td>Pale Scolopendra</td>
     <td>Roll an additional 1d6 to determine the quantity. This poisonous creatures can grow up to 12 feet (roll 2d6 to determine the lenght). The Pale Scolopendras nest near precious objects that will be eventually covered with venom.</td>
   </tr>
