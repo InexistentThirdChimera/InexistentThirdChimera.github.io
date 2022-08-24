@@ -34,12 +34,12 @@ layout: post
 </head>
 <body>
 
-<h1>A Encounter Table [add Encounter Systems]</h1>
+<h4>A Table of Special Encounters. In any Ascomian zone, when required, roll a d12. If the result is 12 then roll a d20 for a special encounter:</h4>
 
 <table id="customers">
   <tr>
     <th>1d20</th>
-    <th>Encounter</th>
+    <th>Special Encounter</th>
     <th>Description</th>
   </tr>
   <tr>
