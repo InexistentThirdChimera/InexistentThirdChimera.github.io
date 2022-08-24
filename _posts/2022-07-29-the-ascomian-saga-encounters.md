@@ -75,7 +75,7 @@ layout: post
   </tr>
   <tr>
     <td>6</td>
-    <th>Yes</td>
+    <td>Yes</td>
     <td>Pale Scolopendra</td>
     <td>Roll an additional 1d6 to determine the quantity. This poisonous creatures can grow up to 12 feet (roll 2d6 to determine the lenght). The Pale Scolopendras nest near precious objects that will be eventually covered with venom.</td>
   </tr>
@@ -164,6 +164,5 @@ layout: post
     <td>wip</td>
   </tr>
 </table>
-
 </body>
 </html>
