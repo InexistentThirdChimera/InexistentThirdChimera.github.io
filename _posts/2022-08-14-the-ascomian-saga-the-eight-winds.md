@@ -42,7 +42,7 @@ When the sounds and the natural movements of a Wind is reproduced it’s called 
 <p>
 <span style="font-weight: 900;">
             Unarmed Man
-          </span> – a wintery and insistent wind. Harmless except for the cold. Sobbing cries can be heard when the Unarmed Man blows strong.
+          </span> – a wintery and insistent wind. Harmless except for the cold. Sobbing cries can be heard when the Unarmed Man blows strong. Not to be confused with the Petrolic Stroke.
 </p>
 <p>
 <span style="font-weight: 900;">
