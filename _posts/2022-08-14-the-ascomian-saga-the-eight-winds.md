@@ -32,7 +32,7 @@ When the sounds and the natural movements of a Wind is reproduced it’s called 
  <p>
 <span style="font-weight: 900;">
             Major Sickler
-          </span> – a humid and slack wind able to force someone to take what does not belong to him/her. Used for the High Cacophony Ritual during the High Cacophony Feast. Bird hushed singing  can b heard when the Major Sickler blows strong.
+          </span> – a humid and slack wind able to force someone to take what does not belong to him/her. Used for the High Cacophony Ritual during the High Cacophony Feast. Steller Jay's hushed singing can be heard when the Major Sickler blows strong.
 </p>
 <p>
 <span style="font-weight: 900;">
