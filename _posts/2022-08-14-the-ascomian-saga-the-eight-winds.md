@@ -4,10 +4,10 @@ author: Alessandro Mattia Arrighetti
 category: Ascom Elves
 layout: post
 ---
-
+<h4>
 Each wind has its own place of origin, each zone has a possibility to host one or more winds.
-When the sounds and the natural movements of the Eight Winds are reproduced it’s called Cacophony. 
-
+When the sounds and the natural movements of a Wind is reproduced it’s called Cacophony. 
+</h4>
 <p>
  <span style="font-weight: 900;">
             Major Grassrustler
