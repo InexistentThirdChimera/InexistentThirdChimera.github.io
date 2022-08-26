@@ -5,7 +5,6 @@ category: Ascom RPG
 layout: post
 ---
 
-html lang="en">
   
 <head>
     <meta charset="UTF-8" />
@@ -46,6 +45,5 @@ html lang="en">
     
     </p>
 </body>
-  
-</html>
+
 

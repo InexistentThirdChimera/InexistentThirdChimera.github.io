@@ -6,7 +6,7 @@ layout: post
 ---
 <p>
 Each wind has its own place of origin, each zone has a possibility to host one or more winds.
-When the sounds and the natural movements of a Wind is reproduced it’s called Cacophony. 
+When the sounds and the natural movements of a Wind are reproduced it’s called Cacophony. 
 </p>
 
 <p>
