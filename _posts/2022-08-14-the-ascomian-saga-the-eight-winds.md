@@ -21,7 +21,7 @@ When the sounds and the natural movements of a Wind is reproduced it’s called 
 <p>
 <span style="font-weight: 900;">
             Cavalcader
-          </span> – warm guts of wind able to make living objects levitate. It will often carry flowers and smaller animals. Echoed neighs can be heard when the Cavalcader blows strong. 
+          </span> – warm gust of wind able to make living objects levitate. It will often carry flowers and smaller animals. Echoed neighs can be heard when the Cavalcader blows strong. 
 </p>
 <p>
 <span style="font-weight: 900;">
