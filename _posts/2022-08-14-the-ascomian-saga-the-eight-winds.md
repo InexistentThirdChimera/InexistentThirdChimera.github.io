@@ -18,6 +18,7 @@ When the sounds and the natural movements of the Eight Winds are reproduced it�
             Minor  Grassrustler
           </span> – deathly quiet and dry wind able to make living objects invisible. Predatory animals have a higher chance to appear in the zones where this wind blows. This wind carries no sound.
 </p>
+<p>
 <span style="font-weight: 900;">
             Cavalcader
           </span> – warm guts of wind able to make living objects levitate. It will often carry flowers and smaller animals. Echoed neighs can be heard when the Cavalcader blows strong. 
