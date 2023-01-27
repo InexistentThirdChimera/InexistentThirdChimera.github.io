@@ -97,10 +97,3 @@ I would have liked to spend more time arguing with Stan, but the fishermen ship 
 </body>
   
 </html>
-
-
-Amoralism does not imply irrationality. Elves are in fact very rational beasts and will act or react only when the reasons to do so are grounded it Elf’s own interests.
-A moral human that acts through moral teachings cannot be indifferent to matters such as suffering and injustice, he will not, however, take the fact that ought to have certain ends as in itself reason to adopt them. An amoral Elf however, may deny that he has any reason to trouble his head over this or any other moral demand.  
-To an amoralist moral virtues can have its rewards but an amoralist can’t think of virtue as it own reward, nor can the amoralist be given reason to distinguish real virtue from a convincing doppelganger. 
-
-Elves will obviously praise those who possess great knowledge in order to steal or barter their secrets. They will eventually speak highly of the practitioners of the five arts, but only if exceptionally skilled. Free thinkers may also be intriguing subjects for Elves, while religious fanatics, spokesmen of morals and political opinions, liars and scoundrels, will certainly be avoided or harmed.
