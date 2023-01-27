@@ -39,11 +39,11 @@ layout: post
 
 
 
-On the 27th of Fireseek 592 CY the party decides to reach Thorham Fort[^1], leaving once again Sukut Nabir (Arden Vul) waiting for us. The Fort was probably built during the golden times of the Arconts, as the elders of the village of Thornham suggested. 
+On the 27th of Fireseek 592 CY the party decides to reach Thorham Fort[1], leaving once again Sukut Nabir (Arden Vul) waiting for us. The Fort was probably built during the golden times of the Arconts, as the elders of the village of Thornham suggested. 
 They also suggested that a catastrophe, that took place a long time ago, could have caused the abandonment of the Fort. As we know, the Arcontean Imperium was at its peak 1200 years ago. 
 Now the fort is collapsing, and the placid marshes are besieging its ruins. 
 
-To reach it, the party (Tabudai, Tarlandur, May, Roijo, Elmo and Klibo) has rented a swamp boat[^2] from a curious character named Stan[^3], who keeps his business going in the town of Gosterwick, the second major settlement in the Burdock Valley. The first one is Atuk Re. 
+To reach it, the party (Tabudai, Tarlandur, May, Roijo, Elmo and Klibo) has rented a swamp boat[2] from a curious character named Stan[3], who keeps his business going in the town of Gosterwick, the second major settlement in the Burdock Valley. The first one is Atuk Re. 
 
 After renting a boat for 70g, no contract signed, the party is given a ride by a company of seamen, sailing south by river, from Gosterwick to Atuk Re. The rented boat will later serve as a vehicle to reach the fort hidden in the swamp, unreachable by larger ships with a long keel. The party reaches the Fort as planned. It’s 4-5pm. The sun is settling. 
 The party is tired. We enter the castle and camp inside the only fortified room left: the central room. The party will find comfort in that room for the next few days. The gaming session ends. 
