@@ -1,5 +1,5 @@
 ---
-title: The Ascomian Saga, A Jocular Introduction 
+title: "The Ascomian Saga: A Jocular Introduction"
 author: Alessandro Mattia Arrighetti
 category: Ascom RPG
 layout: post

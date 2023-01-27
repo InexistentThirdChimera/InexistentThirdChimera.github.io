@@ -1,5 +1,5 @@
 ---
-title: The Ascomian Saga, Keepers of Secrets 
+title: "The Ascomian Saga: Keepers of Secrets" 
 author: Alessandro Mattia Arrighetti
 category: Ascom Elves
 layout: post

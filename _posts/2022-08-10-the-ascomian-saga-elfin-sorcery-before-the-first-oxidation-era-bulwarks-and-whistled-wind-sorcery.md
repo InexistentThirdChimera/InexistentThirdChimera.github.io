@@ -1,5 +1,5 @@
 ---
-title: The Ascomian Saga, Elfin Sorcery before The First Oxidation Era, Bulwarks and Whistled Wind Sorcery
+title: "The Ascomian Saga: Elfin Sorcery before The First Oxidation Era, Bulwarks and Whistled Wind Sorcery"
 author: Alessandro Mattia Arrighetti
 category: Ascom Elves
 layout: post

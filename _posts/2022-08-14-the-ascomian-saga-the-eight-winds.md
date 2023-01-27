@@ -1,5 +1,5 @@
 ---
-title: The Ascomian Saga, The Eight Winds  
+title: "The Ascomian Saga: The Eight Winds"  
 author: Alessandro Mattia Arrighetti
 category: Ascom Elves
 layout: post

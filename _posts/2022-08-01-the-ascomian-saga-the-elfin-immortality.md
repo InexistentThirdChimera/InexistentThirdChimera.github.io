@@ -1,5 +1,5 @@
 ---
-title: The Ascomian Saga, Elfin Immortality
+title: "The Ascomian Saga: Elfin Immortality"
 author: Alessandro Mattia Arrighetti
 category: Ascom Elves
 layout: post

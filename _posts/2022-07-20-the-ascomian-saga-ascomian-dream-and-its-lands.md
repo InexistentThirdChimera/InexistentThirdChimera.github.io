@@ -1,5 +1,5 @@
 ---
-title: The Ascomian Saga, Ascomian Dream and Its Lands
+title: "The Ascomian Saga: Ascomian Dream and Its Lands"
 author: Alessandro Mattia Arrighetti
 category: Ascom RPG
 layout: post

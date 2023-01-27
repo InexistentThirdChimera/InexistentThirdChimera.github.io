@@ -1,5 +1,5 @@
 ---
-title: The Ascomian Saga, Encounters
+title: "The Ascomian Saga: Encounters"
 author: Alessandro Mattia Arrighetti
 category: Ascom RPG
 layout: post

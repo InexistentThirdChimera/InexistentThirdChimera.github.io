@@ -1,5 +1,5 @@
 ---
-title: The Ascomian Saga - Elfin Individualism; loners & pilgrims
+title: "The Ascomian Saga: Elfin Individualism; loners & pilgrims"
 author: Alessandro Mattia Arrighetti
 category: Ascom Elves
 layout: post
