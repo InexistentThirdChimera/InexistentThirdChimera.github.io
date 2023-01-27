@@ -25,6 +25,19 @@ layout: post
     </style>
 </head>
   
+<body>
+    <p class="gfg">
+    </p>
+  
+    <p class="geeks">
+    
+    </p>
+</body>
+  
+</html>
+
+
+
 
 On the 27th of Fireseek 592 CY the party decides to reach Thorham Fort, leaving once again Sukut Nabir (Arden Vul) waiting for us. The Fort was probably built during the golden times of the Arconts, as the elders of the village of Thornham suggested. 
 They also suggested that a catastrophe, that took place a long time ago, could have caused the abandonment of the Fort. As we know, the Arcontean Imperium was at its peak 1200 years ago. 
@@ -34,7 +47,7 @@ After renting a boat for 70g, no contract signed, the party is given a ride by a
 The party reaches the Fort as planned. It’s 4-5pm. The sun is settling. 
 The party is tired. We enter the castle and camp inside the only fortified room left: the central room. The party will find comfort in that room for the next few days. The gaming session ends. 
 
-[1] With new players, that never touched a D&D game (May and Roijo), we wisely and democratically decided to forget about Sukut Nabir and its dungerous dungeons. Instead, we have chosen to explore a forgotten Fort, placed inside a watery marsh, somewhere in a forest where I (Tarlandur) and Tabudai have previously investigated about a production of smuggling poison. Back then we discovered that the sale of poison inside "The Baton" Inn in Gosterwick was indirectly financed by Joe Belongi, the boss of Amund Fort, Capital City of Lionbeak. But this is a different story, isn't it? 
+[1]With new players, that never touched a D&D game (May and Roijo), we wisely and democratically decided to forget about Sukut Nabir and its dungerous dungeons. Instead, we have chosen to explore a forgotten Fort, placed inside a watery marsh, somewhere in a forest where I (Tarlandur) and Tabudai have previously investigated about a production of smuggling poison. Back then we discovered that the sale of poison inside "The Baton" Inn in Gosterwick was indirectly financed by Joe Belongi, the boss of Amund Fort, Capital City of Lionbeak. But this is a different story, isn't it? 
 I would like to think that the Fort is somehow linked to the poison business, but at the same time I'm convinced that there's almost nothing inside that fort, and both possibilities thrill me. How cool would it be to find nothing in an abandoned Fort? I really like to think it like that. You're walking down the mushy green stairs of the fort leading into the dungeons...and there comes nothing. 
 Empty cells, empty barrels, spider-webs here and there, the smell of mold and rock saturating the cold room. What where you expecting? 
 A giant humanoid dragonfly asking for a favor in exchange of its eggs? C'mon. Actually, while I'm thinking about the dragonfly I'm starting to find it interesting. Never-mind.
@@ -53,3 +66,41 @@ I must admit that characters with a marked rhythm of speech and obsessions are o
 During the end of our conversation the seller began to mention fragments of our daily life, but in small bites, I rectify. I think that in that moment, as a player, a spark ignited my interest even more. What was his story? Why he considered himself the last boat vendor?
 I would have liked to spend more time arguing with Stan, but the fishermen ship traveling to Atuk Re was waiting for us.
 
+<html lang="en">
+  
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+    <meta name="viewport" content=
+        "width=device-width, initial-scale=1.0" />
+  
+    <!--Style CSS-->
+    <style>
+        .gfg {
+            font-style: italic;
+            font-size: 18px;
+            margin: 10px;
+            padding: 2px;
+            color: black;
+        }
+    </style>
+</head>
+  
+<body>
+    <p class="gfg">
+     </p>
+  
+    <p class="geeks">
+    
+    </p>
+</body>
+  
+</html>
+
+
+Amoralism does not imply irrationality. Elves are in fact very rational beasts and will act or react only when the reasons to do so are grounded it Elf’s own interests.
+A moral human that acts through moral teachings cannot be indifferent to matters such as suffering and injustice, he will not, however, take the fact that ought to have certain ends as in itself reason to adopt them. An amoral Elf however, may deny that he has any reason to trouble his head over this or any other moral demand.  
+To an amoralist moral virtues can have its rewards but an amoralist can’t think of virtue as it own reward, nor can the amoralist be given reason to distinguish real virtue from a convincing doppelganger. 
+
+Elves will obviously praise those who possess great knowledge in order to steal or barter their secrets. They will eventually speak highly of the practitioners of the five arts, but only if exceptionally skilled. Free thinkers may also be intriguing subjects for Elves, while religious fanatics, spokesmen of morals and political opinions, liars and scoundrels, will certainly be avoided or harmed.
