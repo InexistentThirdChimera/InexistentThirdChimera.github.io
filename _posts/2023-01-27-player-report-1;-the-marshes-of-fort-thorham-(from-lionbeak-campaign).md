@@ -39,7 +39,7 @@ layout: post
 
 
 
-On the 27th of Fireseek 592 CY the party decides to reach Thorham Fort <sup>[[1]](#fn1)</sup>, leaving once again Sukut Nabir (Arden Vul) waiting for us. The Fort was probably built during the golden times of the Arconts, as the elders of the village of Thornham suggested. 
+On the 27th of Fireseek 592 CY the party decides to reach Thorham Fort <a name="nf1"><sup>[[1]](#fn1)</sup><a>, leaving once again Sukut Nabir (Arden Vul) waiting for us. The Fort was probably built during the golden times of the Arconts, as the elders of the village of Thornham suggested. 
 They also suggested that a catastrophe, that took place a long time ago, could have caused the abandonment of the Fort. As we know, the Arcontean Imperium was at its peak 1200 years ago. 
 Now the fort is collapsing, and the placid marshes are besieging its ruins. 
 
@@ -50,7 +50,7 @@ The party is tired. We enter the castle and camp inside the only fortified room 
 
 ---
 
-<a name="fn1">[1]</a> With new players, that never touched a D&D game (May and Roijo), we wisely and democratically decided to forget about Sukut Nabir and its dungerous dungeons. Instead, we have chosen to explore a forgotten Fort, placed inside a watery marsh, somewhere in a forest where I (Tarlandur) and Tabudai have previously investigated a production of smuggled poison. Back then we discovered that the sale of poison inside "The Baton" Inn in Gosterwick was indirectly financed by Joe Belongi, the boss of Amund Fort, Capital City of Lionbeak. But this is a different story, isn't it? 
+<a name="fn1">[[1]](#nf1)</a> With new players, that never touched a D&D game (May and Roijo), we wisely and democratically decided to forget about Sukut Nabir and its dungerous dungeons. Instead, we have chosen to explore a forgotten Fort, placed inside a watery marsh, somewhere in a forest where I (Tarlandur) and Tabudai have previously investigated a production of smuggled poison. Back then we discovered that the sale of poison inside "The Baton" Inn in Gosterwick was indirectly financed by Joe Belongi, the boss of Amund Fort, Capital City of Lionbeak. But this is a different story, isn't it? 
 
 I would like to think that the Fort is somehow linked to the poison business, but at the same time I'm convinced that there's almost nothing inside that fort, and both possibilities thrill me. How cool would it be to find nothing in an abandoned Fort? I really like to think it like that. You're walking down the mushy green stairs of the fort leading into the dungeons...and there comes nothing. 
 Empty cells, empty barrels, spider-webs here and there, the smell of mold and rock saturating the cold room. What where you expecting? 
