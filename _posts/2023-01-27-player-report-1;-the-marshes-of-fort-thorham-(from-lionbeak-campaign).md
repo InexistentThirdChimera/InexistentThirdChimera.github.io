@@ -67,7 +67,7 @@ We solved the "difficult terrain" problem by renting, a boat. We had also though
 He was also obsessed with boat seat padding.
 
 I must admit that characters with a marked rhythm of speech and obsessions are often more interesting then characters with a thick accent. Combine both things and you should achieve a satisfying result. 
-During the end of our conversation the seller began to mention fragments of our daily life, but in small bites, I rectify. I think that in that moment, as a player, a spark ignited my interest even more. What was his story? Why he considered himself the last boat vendor?
+During the end of our conversation the seller began to mention fragments of our daily life, but in small bites, I rectify. I think that in that moment, as a player, a spark ignited my interest even more. What was his story? Why did he considered himself the last boat vendor?
 I would have liked to spend more time arguing with Stan, but the fishermen ship traveling to Atuk Re was waiting for us.
 
 <html lang="en">
