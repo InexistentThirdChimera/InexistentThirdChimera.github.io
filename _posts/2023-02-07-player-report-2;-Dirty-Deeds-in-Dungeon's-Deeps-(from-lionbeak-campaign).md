@@ -1,5 +1,5 @@
 ---
-title: "Player Report 1: The Marshes of Fort Thorham (from Lionbeak Campaign)"
+title: "Player Report 2: Dirty Deeds in Dungeon's Deeps (from Lionbeak Campaign)"
 author: Alessandro Mattia Arrighetti
 category: Player-Reports
 layout: post
