@@ -71,7 +71,7 @@ What I want to expose here is the sacrifice of the role-player. The poor scapego
 My RP approach makes sense if you’re playing AD&D (Advanced Dungeons & Dragons, 1st edition) of course, or some other semi-hardcore TTRPG (Table Top Role Playing Game).
 
 I have nothing else to comment. The playing session was pretty straight-forward. The halflings and orcs were grumpy and arrogant as they should be as outlaws hiding some dirty business inside an abandoned fort. 
-
+I can't really comment on the predictions I made on the first player report, we don't know yet if the dungeon hosts some sort of poison factory. Maybe our imagination played against us this time. It doesn't matter, months will pass, because we have to pour oil on troubled waters.
 
 <html lang="en">
   
