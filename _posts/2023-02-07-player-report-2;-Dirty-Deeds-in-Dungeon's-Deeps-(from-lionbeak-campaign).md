@@ -67,7 +67,7 @@ If a cleric during an encounter decides to murder ten NPCs because he’s almost
 
 <a name="fn2">[[2]](#nf2)</a> While the characters choose violence, the players choose role-playing, to avoid dice-throwing as much as possible, which would entrust their fate to probability, a portentous ally, a fearful enemy. It seems to me that players who role-play are advantaged, but it obviously depends on the DM and his/her play style. In our chase role-playing will let us skip some ability checks and other DM stuff. 
 Sometimes the RP will result as a heavy method acting session. Just kidding. 
-What I want to expose here is the sacrifice of the role-player. The poor scapegoat must stage things that he’s character would do. Sometimes it could happen that the scapegoat must stage acts that disgust the same player. In my case: torturing the orcs. A small sacrifice to avoid dice rolling, and it may also be a “playful” interaction for some players. 
+What I want to expose here is the sacrifice of the role-player. The poor scapegoat must stage things that he’s character would do. Sometimes it could happen that the scapegoat must stage acts that disgust the same player. In my case: torturing the orcs. A small sacrifice to avoid dice rolling, and it may also result as a “playful” interaction for some players. 
 My RP approach makes sense if you’re playing AD&D (Advanced Dungeons & Dragons, 1st edition) of course, or some other semi-hardcore TTRPG (Table Top Role Playing Game).
 
 I have nothing else to comment. The playing session was pretty straight-forward. The halflings and orcs were grumpy and arrogant as they should be as outlaws hiding some dirty business inside an abandoned fort. 
