@@ -44,7 +44,7 @@ Now the fort is collapsing, and the placid marshes are besieging its ruins.
 To reach it, the party (Tabudai, Tarlandur, May, Reijo, Elmo and Klibo) has rented a swamp boat <a name="nf2"><sup>[[2]](#fn2)</sup><a> from a curious character named Stan <a name="nf3"><sup>[[3]](#fn3)</sup><a>, who keeps his business going in the town of Gosterwick, the second major settlement in the Burdock Valley. The first one is Atuk Re. 
 
 After renting a boat for 70g, no contract signed, the party is given a ride by a company of seamen, sailing south by river, from Gosterwick to Atuk Re. The rented boat will later serve as a vehicle to reach the fort hidden in the swamp, unreachable by larger ships with a long keel. The party reaches the Fort as planned. It’s 4-5pm. The sun is settling. 
-The party is tired. We enter the castle and camp inside the only fortified room left: the central room. The party will find comfort in that room for the next few days. The gaming session ends. 
+The party is tired. We enter the castle and camp inside the only fortified room left: the central room. The party will find comfort in that room for the next day. The gaming session ends. 
 
 ---
 
