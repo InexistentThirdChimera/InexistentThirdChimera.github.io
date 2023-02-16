@@ -42,7 +42,7 @@ same-land settings, which are often monotone.
 I will try to explain this thought by using the concept of religion within a real historical context.
 If you consider OSRs setting the mirror of the real Middle Ages, then you will probably like my words. 
 
-Try to visualize a green land somewhere in the middle of Europe, with small villages displaced in an area of 100 miles, all connected with a small network of cobbled roads.
+Try to visualize a green medieval land somewhere in the middle of Europe, with small villages displaced in an area of 100 miles, all connected with a small network of cobbled roads.
 A few mercantile oxcarts that walk those roads are the only link between one village and another. They bring news, gossips, and survival essentials. The villagers are hunters, gatherers, but mostly farmers, whose only purpose is to survive by procreating and working for the (land)lord. 
 Even during his free time the farmer does not waste time. He takes refuge in the largest and richest house, where he dabbles in the beautification of his soul through prayers, so that his existence can be worthwhile, even after death. What he is, what he does, what he wants must be dictated to him, so that he can live well.
 
