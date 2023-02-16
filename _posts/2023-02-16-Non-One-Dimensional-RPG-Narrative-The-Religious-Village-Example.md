@@ -54,7 +54,7 @@ It can be distinguished from other aquariums because this one has a priest who d
 
 ---
 
-If we recontextualize this village in fantasy setting; the amplification of this phenomenon should be even greater. Usually in an "ideal" fantasy world a given land has been conquered by different nations, hoisting same or different religions. The villages and towns on that piece of land went through various metamorphoses, and with the sedimentation of time and traditions, the villages will tell their own story, diversified primarily by religion. That's why, when I play, I would like to see a Non-One-Dimentional setting, where the river village differs a lot from the one over the hill.
+If we recontextualize this village in fantasy setting; the amplification of this phenomenon should be even greater, especially considering that fantasy Gods have influence on the world, having magical powers. Usually in an "ideal" fantasy world a given land has been conquered by different nations, hoisting same or different religions. The villages and towns on that piece of land went through various metamorphoses, and with the sedimentation of time and traditions, the villages will tell their own story, diversified primarily by religion. That's why, when I play, I would like to see a Non-One-Dimentional setting, where the river village differs a lot from the one over the hill.
 
 
 However, it's important to remember that some players may not be interested in exploring the complexities of religious and cultural diversity within an RPG setting.
