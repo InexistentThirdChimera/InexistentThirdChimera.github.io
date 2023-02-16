@@ -48,6 +48,8 @@ Elves understood this concepts, given that they’ve been contemplating them for
 
 Life was important to them, yet meaningless: an inconsolable desire for knowledge, twisted speculations and extreme experiments, designed to unveil the secrets of life, erased the borders of ethic by signing a warrant of the death of self-consciousness. Everything was allowed. 
 
+---
+
 <html lang="en">
   
 <head>
