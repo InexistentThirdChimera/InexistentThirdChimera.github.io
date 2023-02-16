@@ -37,7 +37,7 @@ layout: post
 
        What else? Of course! I mentioned our village, our shelter, Duru-Rana. Leaving our beloved home is probably the worst fate you can choose! Why do you want to leave this beautiful underground tower? It's warm, we even had an increased production of food this year! More roasted crickets and caterpillar's soups for everyone! We always have plenty of work: casting metal, melding ceramics, cutting roots, bio power harvesting. We, humans, are not heroic warriors! What is that look? You never heard anything about Ascom, haven’t you? Not a single fairy-tale. You hoodwinked me! But you’re not an elf, nor you were born in Duru Rana? No, you’re not even a fool, stranger. But you’ll be a madman if you want to push them inside Ascom. I will not help you! Never, ever! 
 
-       That old grumpy man will not help you, human. Come closer and take this. You’ll not regret it. This is my tome, read it as much as you want, if you want to have fun. 
+       That old grumpy man will not help you, human. Come closer and take this. You’ll not regret it. This is my tome, read it as much as you want, if you wish to have fun. 
 
     </p>
   
