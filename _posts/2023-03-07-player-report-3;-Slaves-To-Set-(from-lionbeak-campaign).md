@@ -51,7 +51,7 @@ Tabudai, Tarlandur, Hotage, May, Klibo and Elmo got miserably locked in a room s
 
 The bald slaver left, just to be replaced by a woman named Stefania. We’ve heard her name before, more precisely on the 8th of Patchwall 591CY, when Tabudai and Tarlandur (me) were enjoying the commodities of the Yellow Coat Inn in Gosterwick. Through chatters we have come to know that Stefania is somehow a relevant representative of the cult. Stefania hired the party, forcing us to work for her <a name="nf3"><sup>[[3]](#fn3)</sup><a>. In the days to come we'll explore and clear the northern tunnels infested with different creatures (wolf-bears and lizard, as mentioned by Stefania).
 
-We all agreed. Finally, a magical chain tattoo was painted on our necks, designed to kill the victim if he, or she, ever decides to run away. The lady demonstrated how the collar works on a pig. She snapped her fingers, the pig got instantly decapitated. Stefania’s henchman, Basileus, will make sure we follow her orders. The session ends when the party, headed to the northern caverns, spots Reijo among the cultists.
+We all agreed. Finally, a magical chain tattoo was painted on our necks, designed to kill the victim if he, or she, ever decides to run away. The lady demonstrated how the collar works on a pig. She snapped her fingers, the pig got instantly decapitated. Stefania’s henchman, Basileus, will make sure we'll follow her orders. The session ended when the party, headed to the northern caverns, spotted Reijo among the cultists.
 
 ---
 
