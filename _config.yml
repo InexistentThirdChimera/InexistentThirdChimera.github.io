@@ -16,7 +16,7 @@
 title: Inexistent 3rd Chimera
 email: mattia.arrighetti@me.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog about Fantasy Worlds, Old School RPGs, and their Reimagination.
+  A blog about Fantasy Worlds, Old School RPGs, and their Reimagining.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://inexistentthirdchimera.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-513.png
