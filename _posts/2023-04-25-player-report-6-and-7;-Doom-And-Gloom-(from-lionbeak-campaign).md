@@ -64,7 +64,7 @@ I have observed that he's an inconsistent character in his reasoning and decisio
 
 Speaking of inconsistency, a few weeks ago he told us to flee from a hidden area of the caves, but today, knowing that we were facing an overwhelmingly difficult challenge, yet he did not stop us. Additionally, we asked Basileus if he could find us a slaughter-slave (although Tabudai was morally and ethically opposed) so that we could replace Klibo in battle. The Forum of Set is teeming with slaves, yet Basileus did not find even one that we could use as described above. The DM rolled a die to decide whether Basileus would find a slave or not. Naturally, the die roll was negative.
 
-Basileus is a well-defined, stoic character, and his figure is powerful and well-drawn, but sometimes the logic behind his behavior leaves something to be desired.
+Basileus is a well-defined, stoic character, abounding in mysteries, and his figure is powerful and well-drawn, but sometimes the logic behind his behavior leaves something to be desired. It's unfortunate that a character of his stature has to be weakened or handicapped in order to prevent players from exploiting it. Basileus reminds me of Colonel Walter Kurtz, portrayed by Marlon Brando in Coppola's Apocalypse Now (1979). 
 
 I know it's part of the game-play that some NPCs must behave as NPCs, but they often feel "locked", as you can't extrapolate too much information from them. It just occurred to me that when an NPC is plotting against us, or behaves badly towards us, it feels more realistic, as if he/she was more inclined to show his/her emotions and character. I would like to have genuine, realistic, fruitful interactions with NPCs when I play and old-school RPG. 
 
