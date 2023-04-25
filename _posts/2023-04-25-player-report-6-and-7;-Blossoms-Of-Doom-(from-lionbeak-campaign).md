@@ -1,5 +1,5 @@
 ---
-title: "Player Report 6 & 7: Blooms and Dooms (Arden Vul, from Lionbeak Campaign)"
+title: "Player Report 6 & 7: Blossoms of Doom (Arden Vul, from Lionbeak Campaign)"
 author: Alessandro Mattia Arrighetti
 category: Player-Reports
 layout: post
@@ -75,7 +75,7 @@ Probably we are not doing enough, or maybe we always choose to play empty-dungeo
 I don’t know about you reader, but I prefer to explore with caution, evading death if it’s in my control. Silver and gold will be more tasty, when looted with successful strategies. 
  
 
- This two sessions made me think that perhaps the things I want as a player, are not the things I like as a player. I may like some mechanics, but eventually I don't want them in my game. I am consuded and I am dooming, as always.  
+ This two sessions made me think that perhaps the things I want as a player, are not the things I like as a player. I may like some mechanics, but eventually I don't want them in my game. I am confused and I am dooming, as always.  
 
 
 <html lang="en">
