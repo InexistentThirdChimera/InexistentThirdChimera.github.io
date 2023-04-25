@@ -1,5 +1,5 @@
 ---
-title: "Player Report 2: Dirty Deeds in Dungeon's Depths (from Lionbeak Campaign)"
+title: "Player Report 2: Dirty Deeds in Dungeon's Depths (Arden Vul,from Lionbeak Campaign)"
 author: Alessandro Mattia Arrighetti
 category: Player-Reports
 layout: post

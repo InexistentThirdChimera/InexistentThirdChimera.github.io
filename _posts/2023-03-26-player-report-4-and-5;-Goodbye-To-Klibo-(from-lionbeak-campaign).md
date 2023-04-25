@@ -1,5 +1,5 @@
 ---
-title: "Player Report 4 & 5: Goodbye To Klibo (from Lionbeak Campaign)"
+title: "Player Report 4 & 5: Goodbye To Klibo (Arden Vul, from Lionbeak Campaign)"
 author: Alessandro Mattia Arrighetti
 category: Player-Reports
 layout: post
