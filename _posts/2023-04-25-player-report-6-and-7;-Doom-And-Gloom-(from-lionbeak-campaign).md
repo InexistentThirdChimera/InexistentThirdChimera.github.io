@@ -1,5 +1,5 @@
 ---
-title: "Player Report 6 & 7: Doom & Gloom (Arden Vul, from Lionbeak Campaign)"
+title: "Player Report 6 & 7: Blooms and Dooms (Arden Vul, from Lionbeak Campaign)"
 author: Alessandro Mattia Arrighetti
 category: Player-Reports
 layout: post
