@@ -1,5 +1,5 @@
 ---
-title: "Player Report 9 & 10: Mephistophelean Ballet and Danse Macabre (Arden Vul, from Lionbeak Campaign)"
+title: "Player Report 10 & 11: Mephistophelean Ballet and Danse Macabre (Arden Vul, from Lionbeak Campaign)"
 author: Alessandro Mattia Arrighetti
 category: Player-Reports
 layout: post
