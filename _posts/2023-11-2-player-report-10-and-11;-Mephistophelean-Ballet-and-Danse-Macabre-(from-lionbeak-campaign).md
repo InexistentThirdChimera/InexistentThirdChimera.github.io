@@ -42,8 +42,9 @@ After the devilish encounter we stumbled upon a patrol of beastmen cartographers
 
 After six days of rest and relax we resumed the exploration, heading towards the halfling-less entrance. Along the corridors near the entrance, we encountered a creature resembling a giant centipede, three meters long, hidden inside a pair of rotten, funky corpses. The creature unscrewed from the cadavers in a macabre dance, and before anyone could react, it managed to paralyze Tarlandur. Quick thinking by Tabudai put the creature to sleep, and Nox dealt the final blow. Tarlandur harvested three of its paralyzing tentacles.
 
-Further exploration brought us to a cavern where an old cooking spot was set atop a big rock, towering the room. Some pots were displaced around the forgotten firebone, where a few pink juicy mushrooms (Acquavitae mushrooms) were growing undisturbed, rumored to have healing properties according to nearby beastmen guards. Luckily they blurt out an old recipe for the mushrooms. The recipe was simple: fry them with a bit of oil. As we proceeded deeper into the dungeon-dwelling we met a ragged man seated on a red stone throne. He welcomely shouted a greating, introducing himself as Lord Ptarmis, the ruler of the Mushroom forest, and expected us to pay homage. We embraced the curiosity, ready to salute the ruler. The session ended.
+Further exploration brought us to a cavern where an old cooking spot was set atop a big rock, towering the room. Some pots were displaced around the forgotten firebone, where a few pink juicy mushrooms (Acquavitae mushrooms) were growing undisturbed, rumored to have healing properties according to nearby beastmen guards. Luckily they blurt out an old recipe for the mushrooms. The recipe was simple: fry them with a bit of oil. As we proceeded deeper into the dungeon-dwelling, we approached the ruins of an old temple facing the Mushroom forest, where we met a ragged man seated on a red stone throne. He welcomely shouted a greating, introducing himself as Lord Ptarmis, the ruler of the Mushroom forest, and expected us to pay homage. We embraced the curiosity, ready to salute the ruler. The session ended.
 
+---
 
 
 
