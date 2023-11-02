@@ -1,5 +1,5 @@
 ---
-title: "Player Report 6 & 7: Blossoms of Doom (Arden Vul, from Lionbeak Campaign)"
+title: "Player Report 8,9 & 10: A Long Hiatus Set Us Free (Arden Vul, from Lionbeak Campaign)"
 author: Alessandro Mattia Arrighetti
 category: Player-Reports
 layout: post
