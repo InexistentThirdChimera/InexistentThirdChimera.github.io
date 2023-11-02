@@ -65,10 +65,9 @@ I will always rat and rave how fragile is the balance between a realistic narrat
 So, the DM did us a solid. Cut us loose before we all just started gnawing at our collars. Pushed the story where it needed to go because sometimes the narrative’s gotta bow to the game, keep it fresh, keep it alive. Maybe there were more shadows to pierce, more monsters to slay, but...
 Freedom, then. Out of the dark and into whatever's next. More than just an escape from tedium, maybe it's a leap into the next grand adventure, or a tumble into chaos. Either way, we keep playing, because that's what you do, right? Keep playing. Why? To answer to this questio I will quote an insightful statement, wrote by web surfer, and it goes by this: 
 
-"Megadungeons are the type of campaign that separates the meek from the strong. A meek player would quit a few sessions in, citing difficulty or lack of story or "content" to be not of their taste. A pathetic player would not even raise their voice and leave without a world. A bad DM would never see far into the megadungeon, their attention span doesn't last long enough. They want to pick up different campaign idea soon, they god bored too quickly, they bought into the hype and now they regre it and want out.
+<i>"Megadungeons are the type of campaign that separates the meek from the strong. A meek player would quit a few sessions in, citing difficulty or lack of story or "content" to be not of their taste. A pathetic player would not even raise their voice and leave without a world. A bad DM would never see far into the megadungeon, their attention span doesn't last long enough. They want to pick up different campaign idea soon, they god bored too quickly, they bought into the hype and now they regre it and want out.
 
-But strong DM's, strong players, they dive in. They don't think about when this end. They don't think about next session, or previous session. They enjoy the moment, they enjoy the time they have. In Megadungeons you will find true comradeire. The Megadungeon is the father of all OSR.""
-
+But strong DM's, strong players, they dive in. They don't think about when this end. They don't think about next session, or previous session. They enjoy the moment, they enjoy the time they have. In Megadungeons you will find true comradeire. The Megadungeon is the father of all OSR."<i>
 
 
 
