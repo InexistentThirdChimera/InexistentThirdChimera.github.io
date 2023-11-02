@@ -46,7 +46,9 @@ Our newfound freedom led us to unearth a treasure we had secreted away, one I da
 It was during the slave auction that we crossed paths with the enigmatic Varumani. We already heard their speech, behind a door in the zone that precedes the Beastmen Town. These archaic beings, hailing from the dawn of Arden Vul and bearing semblances to ancient trolls, spoke in a rhythmically deliberate manner, their words imbued with a primitive yet arcticulated essence. Slavers and merchants dodged as they passed. Their mere presence served as a stark reminder of a hierarchy hiding behind the well-oiled gears of Arden Vul social machinery.
 
 With evicende in one hand, and fear in the other, we leave the Forum of Set forever. We head for Gosterwick, where the cleric of Mitra, the one who commissioned us, awaited our return. With proofs in hand – the collar tattoos, the witnesses, and a damning document from the Forum – we were met with blessings (-1AC). The cleric bestowed upon us a sacred medallion, imbued with the power to alert us of the impending trial set by the Church of Mitra at Amundfort. The sacred medallion will start to glow 14 days before the start of the trial. After 14 days after its activation the medallion will destroy itself. 
+At this point we ended the gaming session, finally heaving a sigh of relief.
 
+---
 
 
 
