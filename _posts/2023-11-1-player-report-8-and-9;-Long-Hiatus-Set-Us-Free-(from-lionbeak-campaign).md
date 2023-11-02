@@ -22,6 +22,12 @@ layout: post
             padding: 2px;
             color: black;
         }
+        blockquote {
+            font-style: italic;
+            margin: 20px 10px;
+            padding: 10px 20px;
+            border-left: 5px solid #cccccc;
+        }
     </style>
 </head>
   
@@ -35,7 +41,6 @@ layout: post
 </body>
   
 </html>
-
 Our last session on the 23rd of Planting concluded with our characters’ strategic retreat from a lethal skirmish with Owlbears, inadvertently leaving our overseer Basileus to fend for himself. The consequences of this act were severe: months of toil as true slaves within the oppressive confines of the Forum of Set. Whipped and worn, we lost all prior earned privileges, with our only respite being the fractured memories of our suffering and the unforgiving embrace of our chains <a name="nf1"><sup>[[1]](#fn1)</sup><a>. A new figure loomed over us, the bald and bearded taskmaster Cenario, under whose watch we served our punishment for the attempted desertion of Basileus, who might be dead or demoted; this part remained unclear <a name="nf2"><sup>[[2]](#fn2)</sup><a>.
 
 Our penance concluded on the 17th Patchwall, with the task of clearing a hive of giant lizards. Cunningly, we enlisted the aid of four guards from the Forum that were monitoring the bridge zone, convincing them to join our cause for the glory of Set. The battle was fierce, and victory was ours but not without the sorrow of loss. May, one of our own, met a brutal end in the jaws of a lizard. Her death cast a pall over our victory, and we laid her to rest in a watery grave near the site of her last battle. "Brave May" it's reported on her tomb  <a name="nf3"><sup>[[3]](#fn3)</sup><a>.
@@ -65,9 +70,9 @@ I will always rat and rave how fragile is the balance between a realistic narrat
 So, the DM did us a solid. Cut us loose before we all just started gnawing at our collars. Pushed the story where it needed to go because sometimes the narrative’s gotta bow to the game, keep it fresh, keep it alive. Maybe there were more shadows to pierce, more monsters to slay, but...
 Freedom, then. Out of the dark and into whatever's next. More than just an escape from tedium, maybe it's a leap into the next grand adventure, or a tumble into chaos. Either way, we keep playing, because that's what you do, right? Keep playing. Why? To answer to this questio I will quote an insightful statement, wrote by web surfer, and it goes by this: 
 
-<p>"Megadungeons are the type of campaign that separates the meek from the strong. A meek player would quit a few sessions in, citing difficulty or lack of story or "content" to be not of their taste. A pathetic player would not even raise their voice and leave without a world. A bad DM would never see far into the megadungeon, their attention span doesn't last long enough. They want to pick up different campaign idea soon, they god bored too quickly, they bought into the hype and now they regre it and want out.
-
-But strong DM's, strong players, they dive in. They don't think about when this end. They don't think about next session, or previous session. They enjoy the moment, they enjoy the time they have. In Megadungeons you will find true comradeire. The Megadungeon is the father of all OSR."</p>
+<blockquote>
+"Megadungeons are the type of campaign that separates the meek from the strong. A meek player would quit a few sessions in, citing difficulty or lack of story or "content" to be not of their taste. A pathetic player would not even raise their voice and leave without a world. A bad DM would never see far into the megadungeon, their attention span doesn't last long enough. They want to pick up different campaign idea soon, they god bored too quickly, they bought into the hype and now they regre it and want out.
+But strong DM's, strong players, they dive in. They don't think about when this end. They don't think about next session, or previous session. They enjoy the moment, they enjoy the time they have. In Megadungeons you will find true comradeire. The Megadungeon is the father of all OSR."</blockquote>
 
 
 
